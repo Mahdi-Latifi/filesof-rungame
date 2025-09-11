@@ -1,3 +1,4 @@
 این پروژه چون حالت خصوصی داره فقط عکس ساخت بازی رو میتونم به نمایش بزارم
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4f1322dd-9044-41dd-8168-3a6928e0ab6e" />
+<img width="1918" height="841" alt="image" src="https://github.com/user-attachments/assets/21498bd0-c2a4-42b3-8dff-5e4d7ef8a86d" />
+
 
